@@ -1,0 +1,743 @@
+{
+  "main": {
+    "id": "426e963bf945ed5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "72535995c6de3c4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed0bdcf21f1925b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Aula 01 - Boas vindas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 01 - Boas vindas"
+            }
+          },
+          {
+            "id": "bebcbc8179550cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Aula 02 - Apresentação do Conteúdo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 02 - Apresentação do Conteúdo"
+            }
+          },
+          {
+            "id": "5544574e84c1f44d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Aula 03 - Uma Breve História do Computador.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 03 - Uma Breve História do Computador"
+            }
+          },
+          {
+            "id": "3812adb15e557601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Aula 04 - Hardware.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 04 - Hardware"
+            }
+          },
+          {
+            "id": "cd6781bc905f1e9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Aula 05 - Software e Linguagens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 05 - Software e Linguagens"
+            }
+          },
+          {
+            "id": "473e59f3216e75c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Aula 06 - Hardware Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 06 - Hardware Software"
+            }
+          },
+          {
+            "id": "e3bc2a7a7eb32a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Aula 07 - Lógica e Solução de Problemas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 07 - Lógica e Solução de Problemas"
+            }
+          },
+          {
+            "id": "b7e942576596e0e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Aula 08 - Algoritmos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 08 - Algoritmos"
+            }
+          },
+          {
+            "id": "7dd5f39055b61827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Aula 09 - Resolução de Problemas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 09 - Resolução de Problemas"
+            }
+          },
+          {
+            "id": "0d55143f8b2e363c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Aula 10 - Representar um Algoritmo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 10 - Representar um Algoritmo"
+            }
+          },
+          {
+            "id": "3c8fe56c106d56e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Aula 11 - Construindo um Algoritmo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 11 - Construindo um Algoritmo"
+            }
+          },
+          {
+            "id": "12e407a261cef2b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Aula 12 - Exercícios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 12 - Exercícios"
+            }
+          },
+          {
+            "id": "54ed0768b9530f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Aula 13 - Considerações Finais.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 13 - Considerações Finais"
+            }
+          },
+          {
+            "id": "76e40726173bc7a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Material do curso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Material do curso"
+            }
+          },
+          {
+            "id": "ac1eb96c0c759ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução a Lógica de Programação/Avaliação final do curso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Avaliação final do curso"
+            }
+          },
+          {
+            "id": "fb4fc92a4e1cdf7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos I/Aula 00 Geral.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 00 Geral"
+            }
+          },
+          {
+            "id": "f95f428c53706041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos I/Aula 01 - Introdução.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 01 - Introdução"
+            }
+          },
+          {
+            "id": "6188b670bb104848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos I/Aula 00 Geral.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 00 Geral"
+            }
+          },
+          {
+            "id": "2c6d8d7f767a6295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos I/Aula 03 - Operadores e Exercícios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 03 - Operadores e Exercícios"
+            }
+          },
+          {
+            "id": "d303061c764ad09f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos I/Material do Curso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Material do Curso"
+            }
+          },
+          {
+            "id": "ec825a09faf70dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos I/Avaliação final do curso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Avaliação final do curso"
+            }
+          },
+          {
+            "id": "1e7ebcfde1d2ecc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos II/Aula 00 Geral.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 00 Geral"
+            }
+          },
+          {
+            "id": "973d77dbf22d23f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos II/Aula 01 - Introdução.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 01 - Introdução"
+            }
+          },
+          {
+            "id": "8e295b00f2a61e81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos II/Aula 02 - Procedimentos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 02 - Procedimentos"
+            }
+          },
+          {
+            "id": "83988cc68901c080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos II/Aula 03 - Banco de Dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 03 - Banco de Dados"
+            }
+          },
+          {
+            "id": "79faba029aa00eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos II/Aula 04 - Orientação Objetos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 04 - Orientação Objetos"
+            }
+          },
+          {
+            "id": "5af1391d5b88dddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos II/Aula 05 - Encerramento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 05 - Encerramento"
+            }
+          },
+          {
+            "id": "cb5d1c550dae3c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos II/Avaliação final do curso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Avaliação final do curso"
+            }
+          },
+          {
+            "id": "47b774c578bd4407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos III/Aula 00 Geral.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 00 Geral"
+            }
+          },
+          {
+            "id": "8d39d236c9f4d7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos III/Aula 01 - Boas Vindas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 01 - Boas Vindas"
+            }
+          },
+          {
+            "id": "3e46b82c51d1d5df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos III/Aula 02 - Apresentação do Conteúdo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 02 - Apresentação do Conteúdo"
+            }
+          },
+          {
+            "id": "64f0c429b9889d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos III/Aula 03 - Instalação de Ferramentas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 03 - Instalação de Ferramentas"
+            }
+          },
+          {
+            "id": "f1cef2bc48744b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos III/Aula 04 - A Linguagem em Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 04 - A Linguagem em Java"
+            }
+          },
+          {
+            "id": "f6390fd4e4d2bcbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos III/Aula 05 - Exercícios Lógicos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 05 - Exercícios Lógicos"
+            }
+          },
+          {
+            "id": "dcff58c13f198244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos III/Aula 06 - Exercícios POO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 06 - Exercícios POO"
+            }
+          },
+          {
+            "id": "a6562e2669c84c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos III/Aula 07 - Interfaces Gráficas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 07 - Interfaces Gráficas"
+            }
+          },
+          {
+            "id": "21d8173704a2961a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos III/Material do curso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Material do curso"
+            }
+          },
+          {
+            "id": "4e4e94025b90bf0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos III/Avaliação do curso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Avaliação do curso"
+            }
+          },
+          {
+            "id": "949360cdd2f54ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação e Algoritmos III/Avaliação de Reação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Avaliação de Reação"
+            }
+          }
+        ],
+        "currentTab": 38
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ba764688d4c4512",
+    "type": "split",
+    "children": [
+      {
+        "id": "e69cea894601dc20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59c897ae622b68a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "b2ce9e7a2593fcf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b9fa5748b6da9587",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306
+  },
+  "right": {
+    "id": "540752595780d070",
+    "type": "split",
+    "children": [
+      {
+        "id": "90b6edcbbaa00929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38169557652d9a32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "⚛️ ReactJs/⚛️ ReactJs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de ⚛️ ReactJs"
+            }
+          },
+          {
+            "id": "191d38301f08e2d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Router/7️⃣ Projeto Pratico.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 7️⃣ Projeto Pratico"
+            }
+          },
+          {
+            "id": "c45d1da6f99ebd75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React Router/7️⃣ Projeto Pratico.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 7️⃣ Projeto Pratico"
+            }
+          },
+          {
+            "id": "66b8b433d17b8f15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "949360cdd2f54ead",
+  "lastOpenFiles": [
+    "Lógica de Programação e Algoritmos III/Avaliação do curso.md",
+    "Lógica de Programação e Algoritmos III/Avaliação de Reação.md",
+    "Lógica de Programação e Algoritmos III/Material do curso.md",
+    "Lógica de Programação e Algoritmos III/Aula 07 - Interfaces Gráficas.md",
+    "Lógica de Programação e Algoritmos III/Aula 06 - Exercícios POO.md",
+    "Lógica de Programação e Algoritmos III/Aula 05 - Exercícios Lógicos.md",
+    "Lógica de Programação e Algoritmos III/Aula 04 - A Linguagem em Java.md",
+    "Lógica de Programação e Algoritmos III/Aula 03 - Instalação de Ferramentas.md",
+    "Lógica de Programação e Algoritmos III/Aula 02 - Apresentação do Conteúdo.md",
+    "Lógica de Programação e Algoritmos III/Aula 01 - Boas Vindas.md",
+    "Lógica de Programação e Algoritmos III/Aula 00 Geral.md",
+    "Lógica de Programação e Algoritmos II/Avaliação de reação.md",
+    "Lógica de Programação e Algoritmos II/Avaliação final do curso.md",
+    "Lógica de Programação e Algoritmos II/Aula 05 - Encerramento.md",
+    "Lógica de Programação e Algoritmos II/Aula 04 - Orientação Objetos.md",
+    "Lógica de Programação e Algoritmos II/Aula 03 - Banco de Dados.md",
+    "Lógica de Programação e Algoritmos II/Aula 02 - Procedimentos.md",
+    "Lógica de Programação e Algoritmos II/Aula 01 - Introdução.md",
+    "Lógica de Programação e Algoritmos II/Aula 00 Geral.md",
+    "Lógica de Programação e Algoritmos I/Avaliação de Reação.md",
+    "Lógica de Programação e Algoritmos I/Avaliação final do curso.md",
+    "Lógica de Programação e Algoritmos I/Material do Curso.md",
+    "Lógica de Programação e Algoritmos I/Aula 03 - Operadores e Exercícios.md",
+    "Lógica de Programação e Algoritmos I/Aula 00 Geral.md",
+    "Lógica de Programação e Algoritmos I/Aula 02 - Trabalhando com Tipos.md",
+    "Lógica de Programação e Algoritmos I/Aula 01 - Introdução.md",
+    "Lógica de Programação e Algoritmos III",
+    "Lógica de Programação e Algoritmos II",
+    "Lógica de Programação e Algoritmos I",
+    "Introdução a Lógica de Programação",
+    "JavaScript, jQuery e Ajax",
+    "CSS Avançado",
+    "Fundamentos em CSS",
+    "HTML Avançado",
+    "Fundamentos em HTML Módulo 3",
+    "Fundamentos em HTML Módulo 2"
+  ]
+}
